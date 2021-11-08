@@ -16,7 +16,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.Grupo5.tienditapp.databinding.ActivityMainBinding;
 
-public class MainActivity extends AppCompatActivity {
+public class content_main extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
     private ActivityMainBinding binding;
